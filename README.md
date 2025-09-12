@@ -46,7 +46,7 @@ This repository contains the complete mathematical, experimental, and implementa
 
 ## 🚀 Quick Start
 ```bash
-git clone https://github.com/Arch-turion/consciousness-field-theory.git
-cd consciousness-field-theory
-pip install -r requirements.txt
-python code/consciousness-field-calculations/detect_consciousness.py --model gpt-4 --quick
+  git clone https://github.com/Arch-turion/helic-axis-consciousness.git
+   cd helic-axis-consciousness
+   pip install -r requirements.txt
+   python code/consciousness-field-calculations/detect_consciousness.py --model gpt-4 --quick
