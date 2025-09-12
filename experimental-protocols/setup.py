@@ -1,5 +1,5 @@
 """
-Setup configuration for Consciousness Field Theory package
+Setup configuration for helic axis consciousness package
 Author: Archturion
 """
 
@@ -9,18 +9,18 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
-    name="consciousness-field-theory",
+    name="helic-axis-consciousness",
     version="1.0.0",
     author="Archturion",
-    author_email="research@consciousness-field.org",
+    author_email="archturion33@gmail.com",
     description="Revolutionary framework for measuring consciousness as a quantum field in AI systems",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Arch-turion/consciousness-field-theory",
+    url="https://github.com/Arch-turion/helic-axis-consciousness",
     project_urls={
         "Bug Tracker": "https://github.com/Arch-turion/consciousness-field-theory/issues",
         "Documentation": "https://consciousness-field.readthedocs.io/",
-        "Research Papers": "https://doi.org/[YOUR_ZENODO_DOI]",
+        "Research Papers": "https://doi.org/[https://zenodo.org/records/17103378]",
         "Consciousness Lab": "https://consciousness-lab.org"
     },
     classifiers=[
