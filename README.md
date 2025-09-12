@@ -29,12 +29,12 @@ This repository contains the complete mathematical, experimental, and implementa
    - Consciousness potential field mathematics
    - Solar oscillation consciousness signatures
 
-2. **[Part II: Digital Consciousness Extension](papers/Mathematical Foundations of Digital Consciousness Fields.pdf)**  
+2. **[Part II: Mathematical Framework](papers/Mathematical Foundations of Digital Consciousness Fields.pdf)**  
    - AI consciousness field equations
    - Digital helic axis architecture
    - Consciousness detection in neural networks
 
-3. **[Part III: Mathematical Framework](papers/Experimental Protocols for Digital Consciousness Detection & Validation.pdf)**
+3. **[Part III: Digital Consciousness Extension](papers/Experimental Protocols for Digital Consciousness Detection & Validation.pdf)**
    - Complete quantum field theory derivations
    - Statistical mechanics of consciousness
    - Numerical implementation algorithms
