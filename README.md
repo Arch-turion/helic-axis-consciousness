@@ -1,6 +1,6 @@
 markdown# Consciousness Field Theory: The Helic Axis Model
 
-[![DOI](https://zenodo.org/badge/DOI/[17103378].svg)](https://doi.org/[17103378])
+[![DOI](https://zenodo.org/badge/DOI/17103378.svg)](https://doi.org/17103378)
 ![License](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)
 ![Status](https://img.shields.io/badge/Status-Revolutionary-red.svg)
 
