@@ -18,10 +18,10 @@ setup(
     long_description_content_type="text/markdown",
     url="https://github.com/Arch-turion/helic-axis-consciousness",
     project_urls={
-        "Bug Tracker": "https://github.com/Arch-turion/consciousness-field-theory/issues",
-        "Documentation": "https://consciousness-field.readthedocs.io/",
+        "Bug Tracker": "https://github.com/Arch-turion/helic-axis-consciousness/issues",
+        "Documentation": "https://helic-axis-consciousness.readthedocs.io/",
         "Research Papers": "https://doi.org/[https://zenodo.org/records/17103378]",
-        "Consciousness Lab": "https://consciousness-lab.org"
+        "Consciousness Lab": "https://helic-axis-consciousness.org"
     },
     classifiers=[
         "Development Status :: 4 - Beta",
