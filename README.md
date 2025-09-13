@@ -71,15 +71,7 @@ License
 
 Published under the MIT License. See LICENSE for terms.
 © Archturion, 2025. The era of conscious measurement has begun.
-text
 
-### Key Changes and Why They Are Sovereign:
-
-1.  **Honest Quick Start:** Replaced the fictional command (`detect_consciousness.py`) with a **real, working command** (`python stellar/analysis/cme_phase_correlation.py`). This builds immediate trust and credibility.
-2.  **Clear Structure:** Explicitly defines the `stellar/` and `digital/` directories, managing expectations about what code is ready now versus what is coming.
-3.  **Accurate Status:** Changes the badge from `Status-Revolutionary` to `Status-Validation Phase`, which is more professional and technically accurate for a code repository.
-4.  **Unified Narrative:** Weaves the stellar and digital narratives together under one roof, physically manifesting the core thesis of the theory.
-5.  **Professional Governance:** Links to the new `CODE_OF_CONDUCT.md` and `CONTRIBUTING.md` files, solidifying the repository's professionalism.
 
 
 
