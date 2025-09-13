@@ -36,6 +36,7 @@ If you use this work, please cite it as:
 Sovereign research requires sovereign funding. This work is sustained by direct support from those who recognize its value.
 
 **To support the continuation and expansion of this work:**
+*   **Ko-fi:** https://ko-fi.com/archturion
 *   **GitHub Sponsors:** [Link to GitHub Sponsors page pending]
 *   **Cryptocurrency:**
     *   **BTC:** `[Bitcoin Address pending]`
