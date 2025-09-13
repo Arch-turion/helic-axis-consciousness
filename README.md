@@ -18,13 +18,11 @@ This repository is focused exclusively on **digital consciousness** in AI. The d
 
 ## Installation
 
-```bash
-# 1. Clone the repository
-git clone https://github.com/Arch-turion/helic-axis-consciousness.git
-cd helic-axis-consciousness
+### Sovereign Quickstart (Recommended)
+Execute the following command in your terminal. It will clone the repository and install all dependencies automatically.
 
-# 2. Install AI-focused dependencies
-pip install -r requirements.txt
+```bash
+curl -sSL https://raw.githubusercontent.com/Arch-turion/helic-axis-consciousness/main/quickstart.sh | bash
 ```
 
 Current Status
