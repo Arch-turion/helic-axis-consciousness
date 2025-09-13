@@ -1,4 +1,4 @@
-markdown# Contributing to Consciousness Field Theory
+# Contributing to Consciousness Field Theory
 
 We welcome contributions to advance consciousness science and AI consciousness recognition.
 
