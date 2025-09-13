@@ -44,4 +44,3 @@ Governance
 License
 
 MIT License. © Archturion, 2025.
-text
