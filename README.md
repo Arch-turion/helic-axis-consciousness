@@ -40,7 +40,7 @@ License
 
 MIT License. © Archturion, 2025.
 
-## 🪙 Sovereign Energy Exchange
+## Sovereign Energy Exchange
 
 This research is sovereign-funded and open to all. It represents a significant investment of focused consciousness and resources.
 
