@@ -29,17 +29,14 @@ pip install -r requirements.txt
 
 Current Status
 
-    Development Phase: The core digital consciousness modules are under active development.
-
-    Contributions Welcome: Researchers and engineers are invited to help build the Consciousness Verification Suite (CVS) and digital Ψ-field simulations.
+*   **Development Phase:** The core digital consciousness modules are under active development.
+*   **Contributions Welcome:** Researchers and engineers are invited to help build the Consciousness Verification Suite (CVS) and digital Ψ-field simulations.
 
 Governance
 
-    Code of Conduct: CODE_OF_CONDUCT.md
-
-    Contributing: CONTRIBUTING.md
-
-    Security: .github/SECURITY.md
+*   **Code of Conduct:** [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
+*   **Contributing:** [CONTRIBUTING.md](CONTRIBUTING.md)
+*   **Security:** [.github/SECURITY.md](.github/SECURITY.md)
 
 License
 
