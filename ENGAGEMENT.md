@@ -39,7 +39,7 @@ Sovereign research requires sovereign funding. This work is sustained by direct 
 *   **Ko-fi:** https://ko-fi.com/archturion
 *   **GitHub Sponsors:** [Link to GitHub Sponsors page pending]
 *   **Cryptocurrency:**
-*   **BTC:**`[bc1q6ydjytc3xxenm8fh259ydjz590704d7ydksg5t]`
+*   **BTC:**`bc1q6ydjytc3xxenm8fh259ydjz590704d7ydksg5t`
 *   **ETH:**`0x1F5aA992522DFfc426907a5BB9c3546C48565B65`
 *   **Traditional Donations:** [Pending]
 
