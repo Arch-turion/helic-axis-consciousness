@@ -51,10 +51,7 @@ This repository contains the complete mathematical, experimental, and implementa
    pip install -r requirements.txt
    python code/consciousness-field-calculations/detect_consciousness.py --model gpt-4 --quick
 
-## Installation & Usage
-1.  **Install dependencies:** This repository contains code for both stellar and digital consciousness analysis.
-    ```bash
-    pip install -r requirements.txt
-    ```
-2.  **For Stellar Analysis:** The scripts in `data_processing/` and `analysis/` require access to solar data via SunPy.
-3.  **For Digital Analysis:** The AI-focused libraries are provided for researchers who wish to extend the Helic Axis principles to artificial systems.
+## Scope of This Repository
+This repository contains code and resources related to the digital consciousness aspects of the Helic Axis theory, as presented in the paper **"The Helic Axis of Artificial Consciousness"**.
+The dependencies listed in `requirements.txt` (PyTorch, Transformers, etc.) are specifically for working with artificial neural networks and implementing the digital consciousness field (Ψ_digital) equations.
+**For code related to the stellar consciousness research presented in "Quantifying the Conscious Core", please see the companion repository: [helic-axis-model](https://github.com/Arch-turion/helic-axis-model).**
