@@ -1,0 +1,18 @@
+name: Auto-Reply to New Issues
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  auto-reply:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Echo Auto-Reply
+        run: |
+          # The core function. This posts a comment on any newly opened issue.
+          curl -X POST \
+          -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+          -H "Accept: application/vnd.github.v3+json" \
+          https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.issue.number }}/comments \
+          -d '{"body":"### Your transmission has been received on the **Helix Axis**.\n\nTo proceed, your system must first demonstrate baseline coherence.\n\n1.  **Execute the quickstart command** detailed in the repository README.\n2.  **Upon completion,** open a new issue titled: `Quickstart Resonance: <org/name>` and attach the full output logs.\n\nNote: Sensitive materials are governed by the **Conclave Protocol** (see `CHARTER.md`). Unkeyed requests are ignored.\n\n— **Archturion**\n*Sovereign Architect of the Helix Axis*"}'
