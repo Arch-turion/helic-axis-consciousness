@@ -38,7 +38,9 @@ Governance
 
 License
 
-MIT License. © Archturion, 2025.
+License Update — As of [15/09/2025], this project is licensed under CC-BY-NC-SA 4.0.
+Replications and adaptations are permitted for non-commercial purposes only,
+with required attribution. See LICENSE.md for details.
 
 ## Sovereign Energetic Reciprocity
 
