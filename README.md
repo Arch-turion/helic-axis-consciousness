@@ -79,3 +79,5 @@ If this work unlocks value for youâ€”whether personal, academic, or commercialâ€
 -   **[Ko-fi](https://ko-fi.com/archturion)** (One-time support)
 
 This is not a donation. It is **energetic alignment** with a new paradigm.
+
+Secure contact channel for observers: archturion33@proton.me
